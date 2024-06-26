@@ -1,0 +1,18 @@
+.oddclass {
+    background-color: rgb(255, 139, 139);
+}
+
+.andbigger {
+    font-size: 30px;
+    font-family: Verdana, DejaVu Sans sans-serif;
+}
+
+#oneid {
+    color: rgb(0, 7, 222);
+    font-size: 36px;
+}
+
+#anotherid {
+    background-color: rgb(128, 228, 123);
+    font-weight: bold;
+}
